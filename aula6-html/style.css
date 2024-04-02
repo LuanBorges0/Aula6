@@ -1,0 +1,74 @@
+body{
+    background-image: url('https://res.cloudinary.com/dte7upwcr/image/upload/f_auto,c_limit,w_3840,q_10/v1621359771/blog/blog2/sites-de-viagem/sites-de-viagem.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+    color: white;
+    border-radius: 40px 40px 40px 40px;
+    background-color: black;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 1px;
+
+}
+
+figure {
+    width: center;
+    height: 200px;
+    display: inline-block;  
+    padding-left: 660px;
+    padding-top: 90px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 1px;
+    margin-right: -25%;
+    
+}
+
+div.RJ {
+    width: 300px;
+    height: 200%;
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+div.CF {
+    width: 300px;
+    height: 200%;
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+div.PM{
+    width: 300px;
+    height: 200%;
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.text {
+    height: 100%;
+}
+
+img{
+    
+    height: auto;
+    max-width: 100%;
+}
+
+h3{
+    text-align: left;
+}
+
+a{
+    padding-right: 800px;
+}
